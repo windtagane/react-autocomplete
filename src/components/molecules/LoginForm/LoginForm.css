@@ -1,0 +1,22 @@
+.LoginForm {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: skyblue;
+    padding-top: 0.2rem;
+    border-radius: 10px 10px 0 0;
+    height: 5rem;
+}
+
+.Wrapper {
+    background-color: snow;
+    padding: 0rem 2rem 2rem 2rem;
+    border-radius: 0 0 10px 10px;
+}
+
+.LoginForm-Title {
+    color: black;
+    text-align: left;
+    margin: 0rem 0.2rem 0.2rem 1rem;
+    margin-bottom: 1rem;
+}

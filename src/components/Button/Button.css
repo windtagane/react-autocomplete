@@ -1,0 +1,14 @@
+.button {
+    padding: 0.5rem;
+    width: 90%;
+    border-radius: 10px;
+    background-color: skyblue;
+    color: white;
+    font-size: large;
+    text-transform: uppercase;
+}
+
+.button:hover {
+    background-color: orangered;
+    cursor: pointer;
+}

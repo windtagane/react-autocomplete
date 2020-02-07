@@ -1,0 +1,13 @@
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 1rem;
+    color: black;
+    text-align: left;
+}
+
+.inputWrapper label {
+    font-size: 18px;
+    padding: 1rem;
+}
